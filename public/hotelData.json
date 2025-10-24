@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Sea Pearl Beach Resort & Spa",
+    "location": "Cox’s Bazar",
+    "description": "A luxury beachfront resort offering panoramic sea views, infinity pool, and fine dining — perfect for a family getaway.",
+    "pricePerNight": 9500,
+    "rating": 4.7,
+    "image": "https://i.ibb.co/GQJ5FJZ6/sea-pearl.jpg",
+    "amenities": ["Free Wi-Fi", "Pool", "Sea View", "Breakfast", "Spa", "Parking"],
+    "availableRooms": 12
+  },
+  {
+    "id": 2,
+    "name": "Grand Sylhet Hotel & Resort",
+    "location": "Sylhet",
+    "description": "Modern comfort in the heart of tea gardens. Enjoy serene surroundings with 5-star hospitality and great connectivity.",
+    "pricePerNight": 8800,
+    "rating": 4.6,
+    "image": "https://i.ibb.co/k66nFTrj/grand.jpg",
+    "amenities": ["Wi-Fi", "Restaurant", "Fitness Center", "Airport Shuttle", "Pool"],
+    "availableRooms": 8
+  },
+  {
+    "id": 3,
+    "name": "Sajek Hill View Resort",
+    "location": "Sajek Valley, Rangamati",
+    "description": "Nestled in the clouds of Sajek, this eco-friendly resort offers stunning valley views, local cuisine, and cozy cottages.",
+    "pricePerNight": 7200,
+    "rating": 4.8,
+    "image": "https://i.ibb.co/B2nfgZDm/sajek.jpg",
+    "amenities": ["Mountain View", "Room Service", "Local Guide", "Campfire"],
+    "availableRooms": 5
+  },
+  {
+    "id": 4,
+    "name": "Kuakata Grand Hotel & Sea Resort",
+    "location": "Kuakata",
+    "description": "Watch both sunrise and sunset from the same beach while staying in comfort with all modern facilities.",
+    "pricePerNight": 7800,
+    "rating": 4.5,
+    "image": "https://i.ibb.co/0ph5VvJH/kuakata.jpg",
+    "amenities": ["Beach Access", "Restaurant", "Wi-Fi", "Breakfast", "AC Rooms"],
+    "availableRooms": 9
+  },
+  {
+    "id": 5,
+    "name": "Nilgiri Eco Resort",
+    "location": "Bandarban",
+    "description": "Experience the tranquility of Bandarban’s hills with misty mornings and wooden cottages above the clouds.",
+    "pricePerNight": 6400,
+    "rating": 4.9,
+    "image": "https://i.ibb.co/JwhgvFrG/nilgiri.jpg",
+    "amenities": ["Mountain View", "Restaurant", "Wi-Fi", "Nature Walk"],
+    "availableRooms": 4
+  },
+  {
+    "id": 6,
+    "name": "Tea Heaven Resort",
+    "location": "Srimangal",
+    "description": "A charming resort surrounded by tea gardens and rainforests. Ideal for nature lovers and peaceful retreats.",
+    "pricePerNight": 5600,
+    "rating": 4.4,
+    "image": "https://i.ibb.co/nspnng3y/sreemangal.jpg",
+    "amenities": ["Garden View", "Wi-Fi", "Bike Rental", "Breakfast"],
+    "availableRooms": 10
+  },
+  {
+    "id": 7,
+    "name": "Hotel The Cox Today",
+    "location": "Cox’s Bazar",
+    "description": "One of the most popular hotels in Cox’s Bazar, offering luxury rooms, swimming pool, and fine dining near the beach.",
+    "pricePerNight": 8900,
+    "rating": 4.6,
+    "image": "https://i.ibb.co/G4pqMMF8/cox.jpg",
+    "amenities": ["Sea View", "Wi-Fi", "Pool", "Restaurant", "Spa"],
+    "availableRooms": 15
+  },
+  {
+    "id": 8,
+    "name": "Aronnok Holiday Resort",
+    "location": "Rangamati",
+    "description": "A lakeside resort offering scenic views of Kaptai Lake, boating, and local cuisine in a serene environment.",
+    "pricePerNight": 5800,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/cKPw36R0/rangamati.jpg",
+    "amenities": ["Lake View", "Boat Ride", "Restaurant", "Wi-Fi"],
+    "availableRooms": 7
+  },
+  {
+    "id": 9,
+    "name": "Saint Martin Coral Resort",
+    "location": "Saint Martin’s Island",
+    "description": "Beachside paradise with coral views, seafood restaurant, and cozy bamboo cottages for island explorers.",
+    "pricePerNight": 6800,
+    "rating": 4.5,
+    "image": "https://i.ibb.co/WN2W9Yjd/saintmartin.webp",
+    "amenities": ["Beachfront", "Wi-Fi", "Seafood", "Bonfire"],
+    "availableRooms": 6
+  },
+  {
+    "id": 10,
+    "name": "Padma River View Resort",
+    "location": "Rajshahi",
+    "description": "Enjoy calm sunsets over the Padma River with modern rooms, rooftop dining, and riverside walks.",
+    "pricePerNight": 5200,
+    "rating": 4.2,
+    "image": "https://i.ibb.co/rBxXnyz/padma.jpg",
+    "amenities": ["River View", "Wi-Fi", "Restaurant", "Parking"],
+    "availableRooms": 11
+  }
+]
